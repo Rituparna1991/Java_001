@@ -29,7 +29,7 @@ public class Constructor {
 		Constructor c1=new Constructor(11,101,"Ritu");
 		Constructor c2=new Constructor(12,201);
 		c1.display();
-		c2.display();
+		c2.display();//Change
 	
 	}
 
